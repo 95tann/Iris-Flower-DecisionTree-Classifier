@@ -1,7 +1,7 @@
 # *************************************************************************
 #  Topic  : Learning Decision Trees
 #  File   : decisionTree.py
-#  Author : Tanmay Shah
+#  Author : Tanmay
 # *************************************************************************
 from sklearn import tree
 from sklearn.tree import export_graphviz
