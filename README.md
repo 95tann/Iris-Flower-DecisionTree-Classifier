@@ -1,5 +1,5 @@
-# Iris-Flower-DecisionTree-Classifier
-Decision Tree used to classify species of Iris flower
+# Classifying Iris Flower Species
+Decision Tree model used to classify species of Iris flower. Learn more about the theory behind decision trees [here].
 
 ### The relevant files in this repo include:
 - decisionTree.py  - Python code that builds decision tree and produces tree visualizations
@@ -9,3 +9,5 @@ Decision Tree used to classify species of Iris flower
 ### Pre-requisites for running decisionTree.py:
 - Ensure you have Python 3.7 installed on machine
 - Ensure you have installed pandas, sklearn, graphviz, pydotplus as Python modules  
+
+[here]: https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb
