@@ -10,4 +10,4 @@ Decision Tree model used to classify species of Iris flower. Learn more about th
 - Ensure you have Python 3.7 installed on machine
 - Ensure you have installed pandas, sklearn, graphviz, pydotplus as Python modules  
 
-[here]: https://medium.com/greyatom/decision-trees-a-simple-way-to-visualize-a-decision-dc506a403aeb
+[here]: https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/ml-decision-tree/tutorial/
